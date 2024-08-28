@@ -1,8 +1,9 @@
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/user-attachments/assets/822bf49b-968b-4827-b4fc-1c1883afc903))
+!]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/user-attachments/assets/822bf49b-968b-4827-b4fc-1c1883afc903))
 ![image](https://github.com/user-attachments/assets/822bf49b-968b-4827-b4fc-1c1883afc903)
 
 
+npm install @mui/material @emotion/react @emotion/styled @mui/icons-material recharts
 
 # Getting Started with Create React App
 
